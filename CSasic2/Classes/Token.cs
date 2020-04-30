@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CSasic2.Classes {
+﻿namespace CSasic2.Classes {
     public class Token {
         public TokenType TokenType { get; set; }
-        public object Object { get; set; }
-        public Token(TokenType tokenType, object obj) {
+        public object Value { get; set; }
+        public Token(TokenType tokenType, object value) {
             TokenType = tokenType;
-            Object = obj;
+            Value = value;
         }
     }
 }
