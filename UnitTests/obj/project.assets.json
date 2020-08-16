@@ -4782,25 +4782,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Detlef Grohs\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\detle\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\detle\\OneDrive\\Documents\\GitHub\\CSasic2\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\UnitTests\\UnitTests.csproj",
-      "packagesPath": "C:\\Users\\Detlef Grohs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\UnitTests\\obj\\",
+      "projectPath": "C:\\Users\\detle\\OneDrive\\Documents\\GitHub\\CSasic2\\UnitTests\\UnitTests.csproj",
+      "packagesPath": "C:\\Users\\detle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\detle\\OneDrive\\Documents\\GitHub\\CSasic2\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Detlef Grohs\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\detle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -4812,8 +4807,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\CSasic2\\CSasic2.csproj": {
-              "projectPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\CSasic2\\CSasic2.csproj"
+            "C:\\Users\\detle\\OneDrive\\Documents\\GitHub\\CSasic2\\CSasic2\\CSasic2.csproj": {
+              "projectPath": "C:\\Users\\detle\\OneDrive\\Documents\\GitHub\\CSasic2\\CSasic2\\CSasic2.csproj"
             }
           }
         }
@@ -4859,7 +4854,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
