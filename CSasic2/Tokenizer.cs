@@ -26,13 +26,13 @@ namespace CSasic2 {
 
 
                 {CreateParseRegex(@"(?<equals>=)"), match => new Token(TokenType.Equals, match.Groups["equals"].Value)},                         //Equals,
-                {CreateParseRegex(@"//(?<comment>[^\n]*)"), match => new Token(TokenType.Comment, match.Groups["comment"].Value)},                         //Comment,
+                {CreateParseRegex(@"//(?<comment>[^(\n|\r)]*)"), match => new Token(TokenType.Comment, match.Groups["comment"].Value)},                         //Comment,
                 
                 {CreateParseRegex(@"(?<operator>[+-/*//<>])"), match => new Token(TokenType.Operator, match.Groups["operator"].Value)},                         //Operator,
                 {CreateParseRegex(@"(?<leftparen>[(])"), match => new Token(TokenType.LeftParen, match.Groups["leftparen"].Value)},                         //LeftParen,
                 {CreateParseRegex(@"(?<rightparen>[)])"), match => new Token(TokenType.RightParen, match.Groups["rightparen"].Value)},                         //RightParen,
                 
-                { CreateParseRegex(@"(?<unknown>\S+)"), match => new Token(TokenType.Unknown, match.Groups["unknown"].Value)},                               //Unknown,
+                {CreateParseRegex(@"(?<unknown>\S+)"), match => new Token(TokenType.Unknown, match.Groups["unknown"].Value)},                               //Unknown,
             };
         }
         public List<Token> Tokenize(string sourceCode) {
