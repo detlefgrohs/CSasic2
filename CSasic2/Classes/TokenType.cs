@@ -2,11 +2,9 @@
     public enum TokenType {
         Unknown,
         Symbol,
-        Integer,
-        Double,
+        Number,
         String,
         Label,
-        Line,
         Equals,
         Operator,
         LeftParen,

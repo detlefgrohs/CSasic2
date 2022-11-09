@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/CSasic2/v16
+/CSasic2/bin
+/CSasic2/obj
+/CommandLine/obj
+/CommandLine/bin/Debug/netcoreapp3.1
