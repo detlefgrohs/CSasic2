@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\CSasic2\\CSasic2.csproj",
+      "projectUniqueName": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic2\\CSasic2\\CSasic2.csproj",
       "projectName": "CSasic2",
-      "projectPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\CSasic2\\CSasic2.csproj",
+      "projectPath": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic2\\CSasic2\\CSasic2.csproj",
       "packagesPath": "C:\\Users\\Detlef Grohs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\CSasic2\\obj\\",
+      "outputPath": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic2\\CSasic2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

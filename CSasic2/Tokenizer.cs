@@ -37,7 +37,7 @@ namespace CSasic2 {
             var tokens = new List<Token>();
 
             while (!string.IsNullOrEmpty(sourceCode.Trim())) {
-                var syntax = SyntaxDictionary.First(syntax => syntax.Key.IsMatch(sourceCode));
+                var syntax = SyntaxDictionary.First(s => s.Key.IsMatch(sourceCode));
                 var match = syntax.Key.Match(sourceCode);
                 sourceCode = match.Groups["rosc"].Value;
                 tokens.Add(syntax.Value.Invoke(match));

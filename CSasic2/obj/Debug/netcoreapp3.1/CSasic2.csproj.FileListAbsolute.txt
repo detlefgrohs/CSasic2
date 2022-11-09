@@ -6,3 +6,11 @@ C:\Users\Detlef Grohs\source\repos\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasi
 C:\Users\Detlef Grohs\source\repos\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasic2.AssemblyInfo.cs
 C:\Users\Detlef Grohs\source\repos\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasic2.dll
 C:\Users\Detlef Grohs\source\repos\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasic2.pdb
+C:\Users\Detlef Grohs\Documents\GitHub\CSasic2\CSasic2\bin\Debug\netcoreapp3.1\CSasic2.deps.json
+C:\Users\Detlef Grohs\Documents\GitHub\CSasic2\CSasic2\bin\Debug\netcoreapp3.1\CSasic2.dll
+C:\Users\Detlef Grohs\Documents\GitHub\CSasic2\CSasic2\bin\Debug\netcoreapp3.1\CSasic2.pdb
+C:\Users\Detlef Grohs\Documents\GitHub\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasic2.csprojAssemblyReference.cache
+C:\Users\Detlef Grohs\Documents\GitHub\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasic2.AssemblyInfoInputs.cache
+C:\Users\Detlef Grohs\Documents\GitHub\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasic2.AssemblyInfo.cs
+C:\Users\Detlef Grohs\Documents\GitHub\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasic2.dll
+C:\Users\Detlef Grohs\Documents\GitHub\CSasic2\CSasic2\obj\Debug\netcoreapp3.1\CSasic2.pdb

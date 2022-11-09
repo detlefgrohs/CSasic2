@@ -4788,11 +4788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic2\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\UnitTests\\UnitTests.csproj",
+      "projectPath": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic2\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\Detlef Grohs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic2\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -4812,8 +4812,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\CSasic2\\CSasic2.csproj": {
-              "projectPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic2\\CSasic2\\CSasic2.csproj"
+            "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic2\\CSasic2\\CSasic2.csproj": {
+              "projectPath": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic2\\CSasic2\\CSasic2.csproj"
             }
           }
         }
